@@ -1,2 +1,2 @@
 # cv-and-ml-bootcamp
-A month bootcamp on Computer Vision and Machine Learning.
+A 1 month bootcamp on Computer Vision and Machine Learning.
